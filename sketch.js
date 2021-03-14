@@ -45,6 +45,6 @@ function draw() {
   }
 }
 
-function mousePressed(){
+function doubleClicked(){
   saveCanvas('NYLON #'+s, 'png');
 }
